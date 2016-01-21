@@ -25,24 +25,24 @@ projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhte
 
 luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
 
-## 1 Projektin ja lopputuotteen kuvaus
+## 1 Description
 
-”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
+”This document describes the project background, objectives, tasks, phasing, resources and organization. Every step is briefly and separately described during phasing.”
 
-## 1.1 Tausta ja lähtökohdat
+## 1.1 Background and basis
 
-<Missä ja mitä on lähdetty kehittämään?>
-”Projektin lähtökohtana on Yritys Oy:n tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <ZZPP0100 Työelämäosaajaksi kasvu> ‑opintojakson puitteissa. ”
-Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. 
-Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
+<What is being developed and where?>
+”The basis of the project is a company's need to develop” < a target>… ”The project is executed at the JAMK IT-institute as a part of the  <ZZPP0100 Growing into a professional in worklife> ‑course. ”
+The subject is often a broader concept than the actual defined project task. The subject describes in a clear manner and often in a graphic representation, what type of a system entity is being made. 
+This document describes the current system and the customer's current method.
 
-## 1.2 Tavoitteet ja tehtävät
+## 1.2 Goals and tasks
 
-Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
-< Mitä aiotaan tehdä?> / < Mitä toimintaa aiotaan kehittää ja miten?>
-< Visio tulevasta tilasta> / < Mikä on tuotettava lopputulos (konkreettinen)?> / < Mitkä ovat osa- tai välitulokset?>
-< Kenelle tulos tuotetaan?>
-”Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta. Kunkin vaiheen päätyttyä laaditaan vaiheraportti, jonka avulla johtoryhmälle tiedotetaan projektin edistymisestä.”
+The crucial content is defined in this project; project task relates to the described objective entity. 
+< What is being planned?> / < What feature is being developed and how?>
+<A Vision of the becomming state> / < What is the developed end result (concrete)?> / < What are the preliminary results?>
+<To whom is the result being developed for?>
+”The task of the group is to keep different parties in the loop. After each phase, a report is made which is used to inform the leading parties on the team's progress.”
 
 ## 1.3 Rajaus ja liittymät
 
